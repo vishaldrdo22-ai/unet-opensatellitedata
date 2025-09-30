@@ -1,2 +1,2 @@
 # unet-opensatellitedata
-This is my first unet deep learning using open satellite dataset 
+This is my first github using unet deep learning using open satellite dataset 
