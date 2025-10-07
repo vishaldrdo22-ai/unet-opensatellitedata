@@ -65,7 +65,7 @@ Note: you may need to restart the kernel to use updated packages.
 import os
 import wandb
 
-os.environ["WANDB_API_KEY"] = "7245e2a7430898865fcd5a6404a16858f83cc588"
+os.environ["WANDB_API_KEY"] = "enter key"
 wandb.login()
 #!wandb login --relogin
 
